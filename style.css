@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/1665055.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main>.container{
+    background-image: url("https://sacmi.com/SacmiCorporate/media/Corporate/Default%20Pict/CS_Academy_2-2.jpg");
+    margin-top: 100px;
+    height: 400px;
+    padding-top: 55px;
+}
